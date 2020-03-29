@@ -1,0 +1,9 @@
+To-do:
+-------
+* Redis
+* Store found URIs in Queue for later
+* Spoof headers
+* Strip "tracking" query params from URIs
+* Add target to table and index with uri
+* Multi-thread
+
